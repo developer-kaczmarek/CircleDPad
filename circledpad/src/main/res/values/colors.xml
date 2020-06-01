@@ -3,6 +3,6 @@
     <color name="OnBackground">#363636</color>
     <color name="OnBackgroundPressed">#161616</color>
 
-    <color name="PrimaryRedEnabled">#DE2222</color>
-    <color name="PrimaryRedPressed">#C00404</color>
+    <color name="PrimaryRedEnabled">#D1181B</color>
+    <color name="PrimaryRedPressed">#C3000A</color>
 </resources>
