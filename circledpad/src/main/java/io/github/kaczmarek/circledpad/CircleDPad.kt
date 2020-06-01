@@ -28,7 +28,7 @@ class CircleDPad @JvmOverloads constructor(
     private val crossButtonsColors = arrayOfNulls<ColorStateList>(4)
 
     var listener: OnClickCircleDPadListener? = null
-    
+
     private var dividersWidth = 2f
     private var centerButtonPercentage = .3f
 
