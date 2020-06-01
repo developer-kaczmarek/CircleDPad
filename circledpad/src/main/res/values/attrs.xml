@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleDPad">
+        <attr name="dividersWidth" format="dimension"/>
+        <attr name="dividersColor" format="color"/>
+        <attr name="leftButtonColor" format="reference"/>
+        <attr name="topButtonColor" format="reference"/>
+        <attr name="rightButtonColor" format="reference"/>
+        <attr name="bottomButtonColor" format="reference"/>
+        <attr name="centerButtonColor" format="reference"/>
+        <attr name="leftButtonDrawable" format="integer"/>
+        <attr name="topButtonDrawable" format="integer"/>
+        <attr name="rightButtonDrawable" format="integer"/>
+        <attr name="bottomButtonDrawable" format="integer"/>
+        <attr name="centerButtonPercentage" format="float"/>
+    </declare-styleable>
+</resources>

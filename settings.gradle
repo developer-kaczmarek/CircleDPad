@@ -1,0 +1,3 @@
+include ':circledpad'
+include ':app'
+rootProject.name = "CircleDPad"
