@@ -71,5 +71,8 @@ class MainActivity : AppCompatActivity(), CircleDPad.OnClickCircleDPadListener {
 ## Example
 The example is on `app` module
 
+## Contribute :sparkles:
+This library is still in its very early stage, so feel free to contribute. I will review any Pull Request.
+
 ## Bugs / Questions / Suggestions
 📧 [Write and I will correct / answer / add as soon as possible](mailto:developer.kaczmarek@yandex.ru)
