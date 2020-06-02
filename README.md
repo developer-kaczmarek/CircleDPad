@@ -23,13 +23,13 @@ After you have the Library setup, just declare the CircleDPad in your xml (defau
 
 `dividersColor` (color) - sets the color of the deviders on the DPad
 
-`leftButtonColor` (reference) 
+`leftButtonColor` (reference) - sets the color for left button
 
-`topButtonColor` (reference)
+`topButtonColor` (reference) - sets the color for top button
 
-`rightButtonColor` (reference)
+`rightButtonColor` (reference) - sets the color for right button
 
-`bottomButtonColor` (reference)
+`bottomButtonColor` (reference)  - sets the color for buttom button
 
 `centerButtonColor` (reference) - drawable resource for left button
 
@@ -41,7 +41,7 @@ After you have the Library setup, just declare the CircleDPad in your xml (defau
 
 `bottomButtonDrawable` (integer) - drawable resource for bottom button
 
-`centerButtonPercentage` (float)
+`centerButtonPercentage` (float) - sets percentage of occupied space for center button
 
 *Warning: you can leave any of these attributes unspecified if you don't want this functionality.*        
 
