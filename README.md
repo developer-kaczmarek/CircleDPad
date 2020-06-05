@@ -30,17 +30,17 @@ After you have the Library setup, just declare the CircleDPad in your xml (defau
 
 `rightButtonColor` (reference) - sets the color for right button
 
-`bottomButtonColor` (reference)  - sets the color for buttom button
+`bottomButtonColor` (reference)  - sets the color for bottom button
 
-`centerButtonColor` (reference) - drawable resource for left button
+`centerButtonColor` (reference) - drawable resource id for center button
 
-`leftButtonDrawable` (integer) - drawable resource for left button
+`leftButtonDrawable` (integer) - drawable resource id for left button
 
-`topButtonDrawable` (integer) - drawable resource for top button
+`topButtonDrawable` (integer) - drawable resource id for top button
 
-`rightButtonDrawable` (integer) - drawable resource for right button
+`rightButtonDrawable` (integer) - drawable resource id for right button
 
-`bottomButtonDrawable` (integer) - drawable resource for bottom button
+`bottomButtonDrawable` (integer) - drawable resource id for bottom button
 
 `centerButtonPercentage` (float) - sets percentage of occupied space for center button
 
