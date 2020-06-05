@@ -3,6 +3,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 CircleDPad is a library which help add virtual DPad for Android Application. 
+![Screenshot](https://github.com/developer-kaczmarek/CircleDPad/blob/master/screenshot.png)
 
 ## Install
 First of all, include the dependency in your **app** build.gradle:
