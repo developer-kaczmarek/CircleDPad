@@ -1,0 +1,39 @@
+apply plugin: 'com.github.dcendents.android-maven'
+
+group='io.github.kaczmarek.circledpad'
+
+install {
+    repositories.mavenInstaller {
+        pom {
+            project {
+                packaging 'aar'
+                groupId 'io.github.kaczmarek.circledpad'
+                artifactId 'circledpad'
+                name 'circledpad'
+                description 'Library for using custom view - DPad on android'
+                url 'https://github.com/developer-kaczmarek/CircleDPad'
+
+                licenses {
+                    license {
+                        name 'GNU GENERAL PUBLIC LICENSE, Version 3.0'
+                        url 'https://www.gnu.org/licenses/gpl-3.0.en.html'
+                    }
+                }
+
+                developers {
+                    developer {
+                        id 'developer-kaczmarek'
+                        name 'Lina Podbolotova'
+                        email 'developer.kaczmarek@yandex.ru'
+                    }
+                }
+
+                scm {
+                    connection 'https://github.com/developer-kaczmarek/CircleDPad.git'
+                    developerConnection 'https://github.com/developer-kaczmarek/CircleDPad.git'
+                    url 'https://github.com/developer-kaczmarek/CircleDPad'
+                }
+            }
+        }
+    }
+}
