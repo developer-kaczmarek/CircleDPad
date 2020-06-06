@@ -10,6 +10,14 @@ First of all, include the dependency in your **app** build.gradle:
 
 `implementation 'io.github.kaczmarek.circledpad:circledpad:$latest_version'`
 
+## Java project
+If you haven't configured Kotlin for your Java only project, add the following to your project:
+
+`implementation 'org.jetbrains.kotlin:kotlin-stdlib-jdk7:$latest_version'`
+
+*Read more about the latest version and kotlin via gradle __[here](https://kotlinlang.org/docs/reference/using-gradle.html)__* 
+
+
 ## Declaring the view
 After you have the Library setup, just declare the CircleDPad in your xml (default style):
 
